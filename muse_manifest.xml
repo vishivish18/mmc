@@ -1,0 +1,195 @@
+<manifest alg="2" build="2015.0.1.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.maestromusicclub.com" resolutions="1x" timestamp="1447428091984">
+  <folder name="css">
+    <file name="site_global.css" crc="105937314"/>
+    <file name="courses.css" crc="3854213872" ref="courses"/>
+    <file name="iefonts_courses.css" crc="104828420" ref="courses"/>
+    <file name="resources.css" crc="3793575201" ref="resources"/>
+    <file name="iefonts_resources.css" crc="196379322" ref="resources"/>
+    <file name="contact-us.css" crc="4110557303" ref="contact-us"/>
+    <file name="corporates.css" crc="3910947507" ref="corporates"/>
+    <file name="iefonts_corporates.css" crc="355658018" ref="corporates"/>
+    <file name="above-the-noise.css" crc="385513536" ref="above-the-noise"/>
+    <file name="index.css" crc="493783999" ref="index"/>
+    <file name="iefonts_index.css" crc="390273479" ref="index"/>
+    <file name="l_i_m_e.css" crc="4225352270" ref="l.i.m.e"/>
+    <file name="j-s-guitar-shop.css" crc="414868499" ref="j-s-guitar-shop"/>
+    <file name="iefonts_j-s-guitar-shop.css" crc="4184883849" ref="j-s-guitar-shop"/>
+    <file name="about-us.css" crc="144968410" ref="about-us"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4183747535" ref="phone>index:phone>guitar:phone>drums:phone>vocals:phone>about-us:index:courses:resources:above-the-noise:about-us:corporates:contact-us:j-s-guitar-shop:l.i.m.e"/>
+    <file name="museutils.js" crc="334180058" ref="phone>index:phone>guitar:phone>drums:phone>vocals:phone>about-us:index:courses:resources:above-the-noise:about-us:corporates:contact-us:j-s-guitar-shop:l.i.m.e"/>
+    <file name="jquery.scrolleffects.js" crc="3865564493" ref="phone>index:phone>guitar:phone>drums:phone>vocals:index"/>
+    <file name="jquery.watch.js" crc="293013060" ref="phone>index:phone>guitar:phone>drums:phone>vocals:phone>about-us:index:courses:resources:above-the-noise:about-us:corporates:contact-us:j-s-guitar-shop:l.i.m.e"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="35732776" ref="phone>index:phone>guitar:phone>drums:phone>vocals:index:courses:resources:above-the-noise:about-us:corporates:contact-us:j-s-guitar-shop:l.i.m.e"/>
+    <file name="pie.js" crc="3827607177" ref="phone>guitar:phone>drums:phone>vocals:index:courses:resources:corporates"/>
+    <file name="museredirect.js" crc="390470276" ref="index"/>
+    <file name="jquery.musemenu.js" crc="315128729" ref="index:courses:resources:above-the-noise:about-us:corporates:contact-us:j-s-guitar-shop:l.i.m.e"/>
+    <file name="webpro.js" crc="7309900" ref="index:courses:resources:above-the-noise:about-us:corporates:contact-us"/>
+    <file name="form_check.php" crc="481505460" ref="index:courses:resources:corporates:contact-us"/>
+    <file name="form_throttle.php" crc="190635071" ref="index:courses:resources:corporates:contact-us"/>
+    <file name="form_process.php" crc="3869018311" ref="index:courses:resources:corporates:contact-us"/>
+    <file name="form-u729.php" crc="312628083" ref="index"/>
+    <file name="musewpslideshow.js" crc="4149944274" ref="index:courses:resources:above-the-noise:about-us:corporates"/>
+    <file name="jquery.museoverlay.js" crc="4282111687" ref="index:courses:resources:above-the-noise:about-us:corporates"/>
+    <file name="touchswipe.js" crc="526709374" ref="index:courses:resources:above-the-noise:about-us:corporates"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:courses:resources:above-the-noise:about-us:corporates:contact-us:j-s-guitar-shop:l.i.m.e"/>
+    <file name="form-u1930.php" crc="4051508759" ref="courses"/>
+    <file name="form-u2003.php" crc="368848123" ref="courses"/>
+    <file name="form-u2054.php" crc="3809205613" ref="courses"/>
+    <file name="form-u3349.php" crc="3896660423" ref="courses"/>
+    <file name="form-u3045.php" crc="4251905276" ref="resources"/>
+    <file name="form-u3024.php" crc="13981106" ref="resources"/>
+    <file name="form-u2922.php" crc="4779803" ref="resources"/>
+    <file name="form-u2992.php" crc="4286750704" ref="resources"/>
+    <file name="form-u5845.php" crc="103283354" ref="corporates"/>
+    <file name="form-u5961.php" crc="4186777540" ref="contact-us"/>
+  </folder>
+  <folder name="images">
+    <file name="117_1mike_hill_photo_fernando_noronha.jpg" crc="513835044" ref="phone>index:index:courses"/>
+    <file name="down-icon-u355-fr.png" crc="4076002836" ref="phone>index"/>
+    <file name="music2-u2108-fr.png" crc="309713635" ref="phone>index"/>
+    <file name="worlds-richest-musicians-crop-u2105.jpg" crc="208791952" ref="phone>index"/>
+    <file name="photography-tumblr-girl-23-19525-hd-images-wallpapers2.jpg" crc="94408981" ref="phone>index:phone>guitar"/>
+    <file name="drum-music-wallpaper-amazing-high-resolution-photos-15228.jpg" crc="3871546625" ref="phone>index"/>
+    <file name="u2178-grad.png" crc="4175884338" ref="phone>index"/>
+    <file name="9197881006_82e794761b_b.jpg" crc="4044681026" ref="phone>index:phone>vocals:courses"/>
+    <file name="u2180-grad.png" crc="3765527258" ref="phone>index"/>
+    <file name="11062756_866360956751624_4522328304675629445_n.jpg" crc="3992434577" ref="phone>index:index"/>
+    <file name="drums-hover.jpg" crc="206527709" ref="phone>drums"/>
+    <file name="u276-grad.png" crc="365310984" ref="index"/>
+    <file name="arrowmenudown.gif" crc="213132104" ref="index:courses:resources:above-the-noise:about-us:corporates:contact-us:j-s-guitar-shop:l.i.m.e"/>
+    <file name="down-icon.png" crc="3863039324" ref="index"/>
+    <file name="worlds-richest-musicians.jpg" crc="4259669278" seo="true" ref="index"/>
+    <file name="music2.png" crc="15788769" ref="index"/>
+    <file name="1533756_888340984553621_3270700436644502943_n.jpg" crc="3832678687" ref="index"/>
+    <file name="img_8905.jpg" crc="4151248408" ref="index"/>
+    <file name="img_7332.jpg" crc="350264181" ref="index"/>
+    <file name="1016629_534970949890628_984836167_n.jpg" crc="314314635" ref="index"/>
+    <file name="img_7294.jpg" crc="392056579" ref="index"/>
+    <file name="img_0531.jpg" crc="9764269" ref="index"/>
+    <file name="10986518_899001390154247_9070666083418756554_n.jpg" crc="99867124" ref="index"/>
+    <file name="263352_461640960556961_633160170_n.jpg" crc="273976010" ref="index"/>
+    <file name="img_8915.jpg" crc="3988096271" ref="index"/>
+    <file name="u761-17.png" crc="126611895" ref="index"/>
+    <file name="u761-17-r.png" crc="3856910559" ref="index"/>
+    <file name="u761-17-m.png" crc="4194515119" ref="index"/>
+    <file name="u761-17-fs.png" crc="469202753" ref="index"/>
+    <file name="menu bg.jpg" crc="83391561" ref="courses:resources:above-the-noise:about-us:corporates:contact-us:j-s-guitar-shop:l.i.m.e"/>
+    <file name="photography-tumblr-girl-23-19525-hd-images-wallpapers.jpg" crc="3997870334" ref="courses"/>
+    <file name="photography-tumblr-girl-23-19525-hd-images-wallpapers2-u1266-fr.jpg" crc="290938191" ref="courses"/>
+    <file name="fill 2-u1506.png" crc="418397418" ref="courses"/>
+    <file name="drums-u1393-fr.jpg" crc="486212694" ref="courses"/>
+    <file name="drums-hover-u1388-fr.jpg" crc="533268907" ref="courses"/>
+    <file name="fill 2-u1514.png" crc="418397418" ref="courses"/>
+    <file name="microphone.jpg" crc="4180341973" ref="courses"/>
+    <file name="microphone (1).jpg" crc="491796001" ref="courses"/>
+    <file name="microphone-hover-u1399-fr.jpg" crc="3923426065" ref="courses"/>
+    <file name="fill 2-u1517.png" crc="418397418" ref="courses"/>
+    <file name="music-musician-piano-player-audio-large-2.jpg" crc="478394521" ref="courses"/>
+    <file name="music-musician-piano-player-audio-large-22.jpg" crc="4091569380" ref="courses"/>
+    <file name="fill 2-u3782.png" crc="418397418" ref="courses"/>
+    <file name="fill 2-u1542.png" crc="65861393" ref="courses"/>
+    <file name="u1958-17.png" crc="350859630" ref="courses"/>
+    <file name="u1958-17-r.png" crc="369206268" ref="courses"/>
+    <file name="u1958-17-m.png" crc="3891596644" ref="courses"/>
+    <file name="u1958-17-fs.png" crc="4207578382" ref="courses"/>
+    <file name="u1618.png" crc="94152446" ref="courses"/>
+    <file name="u1618-r.png" crc="4116367739" ref="courses"/>
+    <file name="img_0465-a.jpg" crc="4187081690" ref="courses"/>
+    <file name="u2030-17.png" crc="350859630" ref="courses"/>
+    <file name="u2030-17-r.png" crc="369206268" ref="courses"/>
+    <file name="u2030-17-m.png" crc="3891596644" ref="courses"/>
+    <file name="u2030-17-fs.png" crc="4207578382" ref="courses"/>
+    <file name="6917490877_a82957343e_b.jpg" crc="405579283" ref="courses"/>
+    <file name="u1736.png" crc="94152446" ref="courses"/>
+    <file name="u1736-r.png" crc="4116367739" ref="courses"/>
+    <file name="drummers.jpg" crc="194564905" ref="courses"/>
+    <file name="u2067-17.png" crc="350859630" ref="courses"/>
+    <file name="u2067-17-r.png" crc="369206268" ref="courses"/>
+    <file name="u2067-17-m.png" crc="3891596644" ref="courses"/>
+    <file name="u2067-17-fs.png" crc="4207578382" ref="courses"/>
+    <file name="u3317.png" crc="94152446" ref="courses"/>
+    <file name="u3317-r.png" crc="4116367739" ref="courses"/>
+    <file name="screenshot_2015-11-10-21-18-38.jpg" crc="3975980580" ref="courses"/>
+    <file name="u3355-17.png" crc="350859630" ref="courses"/>
+    <file name="u3355-17-r.png" crc="369206268" ref="courses"/>
+    <file name="u3355-17-m.png" crc="3891596644" ref="courses"/>
+    <file name="u3355-17-fs.png" crc="4207578382" ref="courses"/>
+    <file name="pexels-photo-14548-large.jpg" crc="17575810" ref="courses"/>
+    <file name="u3310.png" crc="94152446" ref="courses"/>
+    <file name="u3310-r.png" crc="4116367739" ref="courses"/>
+    <file name="picture1.png" crc="4245263874" seo="true" ref="resources"/>
+    <file name="u3047-17.png" crc="469981797" ref="resources"/>
+    <file name="u3047-17-r.png" crc="3826637355" ref="resources"/>
+    <file name="u3047-17-m.png" crc="3826637355" ref="resources"/>
+    <file name="u3047-17-fs.png" crc="4215700317" ref="resources"/>
+    <file name="u3031-17.png" crc="4214443295" ref="resources"/>
+    <file name="u3031-17-r.png" crc="4051396338" ref="resources"/>
+    <file name="u3031-17-m.png" crc="4051396338" ref="resources"/>
+    <file name="u3031-17-fs.png" crc="450081062" ref="resources"/>
+    <file name="u2928-17.png" crc="469981797" ref="resources"/>
+    <file name="u2928-17-r.png" crc="3826637355" ref="resources"/>
+    <file name="u2928-17-m.png" crc="3826637355" ref="resources"/>
+    <file name="u2928-17-fs.png" crc="4215700317" ref="resources"/>
+    <file name="u2994-17.png" crc="4214443295" ref="resources"/>
+    <file name="u2994-17-r.png" crc="4051396338" ref="resources"/>
+    <file name="u2994-17-m.png" crc="4051396338" ref="resources"/>
+    <file name="u2994-17-fs.png" crc="450081062" ref="resources"/>
+    <file name="img_7289-crop-u4074.jpg" crc="4088486909" ref="above-the-noise"/>
+    <file name="blank.gif" crc="4208392903" ref="above-the-noise"/>
+    <file name="img_0531-crop-u4021.jpg" crc="221401153" ref="above-the-noise"/>
+    <file name="img_89152.jpg" crc="4213954855" seo="true" ref="above-the-noise"/>
+    <file name="loading.gif" crc="3815509949" ref="above-the-noise"/>
+    <file name="08-u4083-fr.png" crc="765676" ref="above-the-noise"/>
+    <file name="u4090-4.png" crc="3926939888" ref="above-the-noise"/>
+    <file name="fill 2-u4093.png" crc="65861393" ref="above-the-noise"/>
+    <file name="img_89153.jpg" crc="43724892" ref="above-the-noise:l.i.m.e"/>
+    <file name="img_2817.jpg" crc="407774239" ref="about-us"/>
+    <file name="wp_20140302_00320140303091102.jpg" crc="33644948" ref="corporates"/>
+    <file name="u5864-21.png" crc="350859630" ref="corporates"/>
+    <file name="u5864-21-r.png" crc="369206268" ref="corporates"/>
+    <file name="u5864-21-m.png" crc="3891596644" ref="corporates"/>
+    <file name="u5864-21-fs.png" crc="4207578382" ref="corporates"/>
+    <file name="u5997-17.png" crc="409403349" ref="contact-us"/>
+    <file name="u5997-17-r.png" crc="53271836" ref="contact-us"/>
+    <file name="u5997-17-m.png" crc="133637059" ref="contact-us"/>
+    <file name="u5997-17-fs.png" crc="412222201" ref="contact-us"/>
+    <file name="pexels-photo-large.jpg" crc="458033957" ref="j-s-guitar-shop"/>
+    <file name="guitar combo 1.png" crc="188125981" ref="j-s-guitar-shop"/>
+    <file name="guitar combo 2.png" crc="3910998766" ref="j-s-guitar-shop"/>
+    <file name="guitar combo 3.png" crc="4274850893" ref="j-s-guitar-shop"/>
+    <file name="img_28172.jpg" crc="3796573149" ref="l.i.m.e"/>
+    <file name="10-u6322-fr.png" crc="4177890711" ref="l.i.m.e"/>
+    <file name="u6329-4.png" crc="3931826713" ref="l.i.m.e"/>
+    <file name="u5406.png" crc="3944863501" ref="l.i.m.e"/>
+    <file name="fill 2-u5401.png" crc="65861393" ref="l.i.m.e"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="3793368948" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="43932336" ref="phone>index"/>
+      <file name="vocals.css" crc="471728885" ref="phone>vocals"/>
+      <file name="iefonts_vocals.css" crc="153136519" ref="phone>vocals"/>
+      <file name="guitar.css" crc="195832369" ref="phone>guitar"/>
+      <file name="iefonts_guitar.css" crc="4005632771" ref="phone>guitar"/>
+      <file name="drums.css" crc="3879933583" ref="phone>drums"/>
+      <file name="iefonts_drums.css" crc="463038522" ref="phone>drums"/>
+      <file name="about-us.css" crc="4159424365" ref="phone>about-us"/>
+    </folder>
+    <file name="index.html" crc="4058059521" seo="true" mt="1445681890737" redirect="true"/>
+    <file name="guitar.html" crc="443810251" seo="true" mt="1445681801338" redirect="true"/>
+    <file name="drums.html" crc="531104863" seo="true" mt="1445681799358" redirect="true"/>
+    <file name="vocals.html" crc="3961341536" seo="true" mt="1445681798990" redirect="true"/>
+    <file name="about-us.html" crc="4077582237" seo="true" mt="1447406219529" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="4192679221" seo="true" mt="1447428085061" redirect="true"/>
+  <file name="courses.html" crc="424597131" seo="true" mt="1447427836472" redirect="true"/>
+  <file name="resources.html" crc="56228056" seo="true" mt="1447427947240" redirect="true"/>
+  <file name="above-the-noise.html" crc="3791019272" seo="true" mt="1447427741759" redirect="true"/>
+  <file name="about-us.html" crc="66426005" seo="true" mt="1447427473581" redirect="true"/>
+  <file name="corporates.html" crc="4085994369" seo="true" mt="1447427495530" redirect="true"/>
+  <file name="contact-us.html" crc="290262694" seo="true" mt="1447427547128" redirect="true"/>
+  <file name="j-s-guitar-shop.html" crc="487281982" seo="true" mt="1447427560635" redirect="true"/>
+  <file name="l.i.m.e.html" crc="4214597558" seo="true" mt="1447427384702" redirect="true"/>
+</manifest>
