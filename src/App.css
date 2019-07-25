@@ -235,3 +235,18 @@ body {
   font-size: 32px;
   font-family: 'Monoton', cursive;
 }
+
+.card:hover {
+  .card-img-top{
+    opacity: 0.6;
+  }
+  transform: scale(1.05, 1.05);
+  animation: linear;
+  cursor: pointer;
+  color:red
+}
+
+.instructor-image {
+  height: 80px;
+  width: 80px;
+}

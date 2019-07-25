@@ -4,6 +4,7 @@ import Home from '../home/Home'
 import About from '../about/About'
 import Courses from '../courses/Courses'
 import JStudios from '../jstudios/JStudios'
+import Contact from '../contact/Contact'
 import {
   Navbar, NavbarBrand, Nav, NavItem, NavLink, Collapse, NavbarToggler
 } from 'reactstrap';
@@ -82,6 +83,7 @@ class MenuBar extends React.Component{
               <Route path='/home' component={Home} />
               <Route path='/about' component={About} />
               <Route path='/courses' component={Courses} />
+              <Route path='/contact' component={Contact} />
               <Route path='/j-studios' component={JStudios} />
           </Switch>
         </div>

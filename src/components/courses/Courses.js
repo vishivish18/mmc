@@ -1,5 +1,5 @@
 import React from 'react';
-
+import { Button } from 'reactstrap';
 class Courses extends React.Component {
 
   render() {
@@ -23,7 +23,7 @@ class Courses extends React.Component {
       <div className="container">
       <div className="card-deck">
           <div className="card">
-            <img className="card-img-top" src="/guitar-course.jpg" alt="Card image cap"/>
+            <img className="card-img-top " src="/guitar-course.jpg" alt="Card image cap"/>
             <div className="card-block">
               <h4 className="card-title">Guitar</h4>
               <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -33,6 +33,9 @@ class Courses extends React.Component {
               <p> &#8377; 2200/month</p>
               <p>or</p>
               <p> &#8377; 5600/quarter</p>
+              </div>
+              <div className="card-footer-section">
+                <Button color="primary" size="lg" block>Join Now</Button>
               </div>
             </div>
           </div>
@@ -48,6 +51,9 @@ class Courses extends React.Component {
               <p>or</p>
               <p> &#8377; 5600/quarter</p>
               </div>
+              <div className="card-footer-section">
+                <Button color="primary" size="lg" block>Join Now</Button>
+              </div>
             </div>
           </div>
           <div className="card">
@@ -61,6 +67,9 @@ class Courses extends React.Component {
               <p> &#8377; 2200/month</p>
               <p>or</p>
               <p> &#8377; 5600/quarter</p>
+              </div>
+              <div className="card-footer-section">
+                <Button color="primary" size="lg" block>Join Now</Button>
               </div>
             </div>
           </div>
@@ -78,6 +87,9 @@ class Courses extends React.Component {
               <p>or</p>
               <p> &#8377; 5600/quarter</p>
               </div>
+              <div className="card-footer-section">
+                <Button color="primary" size="lg" block>Join Now</Button>
+              </div>
                   </div>
                 </div>
                 <div className="card">
@@ -92,6 +104,9 @@ class Courses extends React.Component {
               <p>or</p>
               <p> &#8377; 5600/quarter</p>
               </div>
+              <div className="card-footer-section">
+                <Button color="primary" size="lg" block>Join Now</Button>
+              </div>
                   </div>
                 </div>
                 <div className="card">
@@ -105,6 +120,9 @@ class Courses extends React.Component {
               <p> &#8377; 2200/month</p>
               <p>or</p>
               <p> &#8377; 5600/quarter</p>
+              </div>
+              <div className="card-footer-section">
+                <Button color="primary" size="lg" block>Join Now</Button>
               </div>
                   </div>
                 </div>
@@ -122,6 +140,9 @@ class Courses extends React.Component {
               <p>or</p>
               <p> &#8377; 5600/quarter</p>
               </div>
+              <div className="card-footer-section">
+                <Button color="primary" size="lg" block>Join Now</Button>
+              </div>
             </div>
           </div>
           <div className="card">
@@ -136,6 +157,9 @@ class Courses extends React.Component {
               <p>or</p>
               <p> &#8377; 5600/quarter</p>
               </div>
+              <div className="card-footer-section">
+                <Button color="primary" size="lg" block>Join Now</Button>
+              </div>
             </div>
           </div>
           <div className="card">
@@ -149,6 +173,9 @@ class Courses extends React.Component {
               <p> &#8377; 2200/month</p>
               <p>or</p>
               <p> &#8377; 5600/quarter</p>
+              </div>
+              <div className="card-footer-section">
+                <Button color="primary" size="lg" block>Join Now</Button>
               </div>
             </div>
           </div>

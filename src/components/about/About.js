@@ -28,7 +28,7 @@ class About extends React.Component {
       <div className="container">
             <div className="row">
                 <div className="col-md-12">
-                <h1 className="section-header">Story so far......</h1>
+                <h1 className="section-header">Our Story so far......</h1>
                     <div className="main-timeline5">
                         <div className="timeline">
                             <div className="timeline-icon"><span className="year">2003</span></div>
