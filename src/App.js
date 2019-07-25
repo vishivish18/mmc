@@ -2,6 +2,7 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 import MenuBar from './components/menubar/Menubar'
+import Footer from './components/footer/Footer'
 
 
 import { Fragment } from 'react';
@@ -26,6 +27,7 @@ class App extends React.Component {
     return (
       <Fragment>
         <MenuBar></MenuBar>
+        <Footer></Footer>
       </Fragment>
     );
   }
