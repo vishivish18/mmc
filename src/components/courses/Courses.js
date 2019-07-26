@@ -32,7 +32,7 @@ class Courses extends React.Component {
               <p>8 classes/month</p>
               <p> &#8377; 2200/month</p>
               <p>or</p>
-              <p> &#8377; 5600/quarter</p>
+              <p> &#8377; 5800/quarter</p>
               </div>
               <div className="card-footer-section">
                 <Button color="primary" size="lg" block>Join Now</Button>
@@ -49,7 +49,7 @@ class Courses extends React.Component {
               <p>8 classes/month</p>
               <p> &#8377; 2200/month</p>
               <p>or</p>
-              <p> &#8377; 5600/quarter</p>
+              <p> &#8377; 5800/quarter</p>
               </div>
               <div className="card-footer-section">
                 <Button color="primary" size="lg" block>Join Now</Button>
@@ -66,7 +66,7 @@ class Courses extends React.Component {
               <p>4 classes/month</p>
               <p> &#8377; 2200/month</p>
               <p>or</p>
-              <p> &#8377; 5600/quarter</p>
+              <p> &#8377; 5800/quarter</p>
               </div>
               <div className="card-footer-section">
                 <Button color="primary" size="lg" block>Join Now</Button>
@@ -85,7 +85,7 @@ class Courses extends React.Component {
               <p>4 classes/month</p>
               <p> &#8377; 2200/month</p>
               <p>or</p>
-              <p> &#8377; 5600/quarter</p>
+              <p> &#8377; 5800/quarter</p>
               </div>
               <div className="card-footer-section">
                 <Button color="primary" size="lg" block>Join Now</Button>
@@ -102,7 +102,7 @@ class Courses extends React.Component {
               <p>8 classes/month</p>
               <p> &#8377; 2200/month</p>
               <p>or</p>
-              <p> &#8377; 5600/quarter</p>
+              <p> &#8377; 5800/quarter</p>
               </div>
               <div className="card-footer-section">
                 <Button color="primary" size="lg" block>Join Now</Button>
@@ -119,7 +119,7 @@ class Courses extends React.Component {
               <p>8 classes/month</p>
               <p> &#8377; 2200/month</p>
               <p>or</p>
-              <p> &#8377; 5600/quarter</p>
+              <p> &#8377; 5800/quarter</p>
               </div>
               <div className="card-footer-section">
                 <Button color="primary" size="lg" block>Join Now</Button>
@@ -138,7 +138,7 @@ class Courses extends React.Component {
               <p>8 classes/month</p>
               <p> &#8377; 2200/month</p>
               <p>or</p>
-              <p> &#8377; 5600/quarter</p>
+              <p> &#8377; 5800/quarter</p>
               </div>
               <div className="card-footer-section">
                 <Button color="primary" size="lg" block>Join Now</Button>
@@ -155,7 +155,7 @@ class Courses extends React.Component {
               <p>8 classes/month</p>
               <p> &#8377; 2200/month</p>
               <p>or</p>
-              <p> &#8377; 5600/quarter</p>
+              <p> &#8377; 5800/quarter</p>
               </div>
               <div className="card-footer-section">
                 <Button color="primary" size="lg" block>Join Now</Button>
@@ -167,13 +167,6 @@ class Courses extends React.Component {
             <div className="card-block">
               <h4 className="card-title">Certifications</h4>
               <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-              <div className="fee-text">
-              {/* <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p> */}
-              <p>8 classes/month</p>
-              <p> &#8377; 2200/month</p>
-              <p>or</p>
-              <p> &#8377; 5600/quarter</p>
-              </div>
               <div className="card-footer-section">
                 <Button color="primary" size="lg" block>Join Now</Button>
               </div>

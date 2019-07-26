@@ -8,7 +8,8 @@ class Footer extends React.Component {
       <div className="row footer">
               <div className="col-md-12"> 
               <p className="footer-text copyright"> Copyright &#9400; 2003-2019 | Maestro Music Club</p>
-              <p className="footer-text"> Coded with &#10084;&#65039; by Vishal</p>
+              <p className="footer-text"> Coded with &#10084;&#65039; by <a href="https://vishalranjan.in" target="_blank">Vishal</a>
+</p>
               </div>
         </div>
     )
