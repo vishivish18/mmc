@@ -24,53 +24,6 @@ class About extends React.Component {
                 </p>
             </div>
       </div>
-      <div className="row text-center">
-      <div className="container">
-            <div className="row">
-                <div className="col-md-12">
-                <h1 className="section-header">Our Story so far......</h1>
-                    <div className="main-timeline5">
-                        <div className="timeline">
-                            <div className="timeline-icon"><span className="year">2003</span></div>
-                            <div className="timeline-content">
-                                <h3 className="title">Founded as Jim's Guitar Classes</h3>
-                                <p className="description">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lacinia mi ultrices, luctus nunc ut, commodo enim. Vivamus sem erat.
-                                </p>
-                            </div>
-                        </div>
-                        <div className="timeline">
-                            <div className="timeline-icon"><span className="year">2013</span></div>
-                            <div className="timeline-content">
-                                <h3 className="title">Above the Noise - 1st Concert</h3>
-                                <p className="description">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lacinia mi ultrices, luctus nunc ut, commodo enim. Vivamus sem erat.
-                                </p>
-                            </div>
-                        </div>
-                        <div className="timeline">
-                            <div className="timeline-icon"><span className="year">2014</span></div>
-                            <div className="timeline-content">
-                                <h3 className="title">Above the Noise - 2nd Concert</h3>
-                                <p className="description">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lacinia mi ultrices, luctus nunc ut, commodo enim. Vivamus sem erat.
-                                </p>
-                            </div>
-                        </div>
-                        <div className="timeline">
-                            <div className="timeline-icon"><span className="year">2015</span></div>
-                            <div className="timeline-content">
-                                <h3 className="title">Above the Noise - 3rd Concert</h3>
-                                <p className="description">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lacinia mi ultrices, luctus nunc ut, commodo enim. Vivamus sem erat.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        </div>
   </div>
       )
   }

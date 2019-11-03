@@ -20,13 +20,17 @@ class Courses extends React.Component {
             </div>
       </div>
       <div className="row text-center">
+        <div className="col-12">
+          <a href="tel:9560641314" style={{fontSize:52,textDecoration:'none',color:'red'}}>For Enquiry Call @+91 9560641314</a>
+        </div>
+      </div>
+      <div className="row text-center">
       <div className="container">
       <div className="card-deck">
           <div className="card">
             <img className="card-img-top " src="/guitar-course.jpg" alt="Card image cap"/>
             <div className="card-block">
               <h4 className="card-title">Guitar</h4>
-              <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
               <div className="fee-text">
               {/* <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p> */}
               <p>8 classes/month</p>
@@ -43,7 +47,6 @@ class Courses extends React.Component {
             <img className="card-img-top" src="/keyboard-course.jpg" alt="Card image cap"/>
             <div className="card-block">
               <h4 className="card-title">Keyboard</h4>
-              <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
               <div className="fee-text">
               {/* <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p> */}
               <p>8 classes/month</p>
@@ -60,7 +63,6 @@ class Courses extends React.Component {
             <img className="card-img-top" src="/drums-course.jpg" alt="Card image cap"/>
             <div className="card-block">
               <h4 className="card-title">Drums</h4>
-              <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
               <div className="fee-text">
               {/* <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p> */}
               <p>4 classes/month</p>
@@ -79,7 +81,6 @@ class Courses extends React.Component {
                   <img className="card-img-top" src="violin-course.jpg" alt="Card image cap"/>
                   <div className="card-block">
                     <h4 className="card-title">Violin</h4>
-                    <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                     <div className="fee-text">
               {/* <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p> */}
               <p>4 classes/month</p>
@@ -96,7 +97,6 @@ class Courses extends React.Component {
                   <img className="card-img-top" src="/harmonium-course.jpg" alt="Card image cap"/>
                   <div className="card-block">
                     <h4 className="card-title">Hindustani Classical Vocals</h4>
-                    <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                     <div className="fee-text">
               {/* <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p> */}
               <p>8 classes/month</p>
@@ -113,7 +113,6 @@ class Courses extends React.Component {
                   <img className="card-img-top" src="/western-vocals-course.jpg" alt="Card image cap"/>
                   <div className="card-block">
                     <h4 className="card-title">Western Vocals</h4>
-                    <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                     <div className="fee-text">
               {/* <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p> */}
               <p>8 classes/month</p>
@@ -129,10 +128,9 @@ class Courses extends React.Component {
             </div>
             <div className="card-deck" style={{marginTop:40}}>
           <div className="card">
-            <img className="card-img-top" src="violin-course.jpg" alt="Card image cap"/>
+            <img className="card-img-top" src="tabla.jpg" alt="Card image cap"/>
             <div className="card-block">
               <h4 className="card-title">Tabla</h4>
-              <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
               <div className="fee-text">
               {/* <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p> */}
               <p>8 classes/month</p>
@@ -149,7 +147,6 @@ class Courses extends React.Component {
             <img className="card-img-top" src="/ukelele-course.jpg" alt="Card image cap"/>
             <div className="card-block">
               <h4 className="card-title">Ukelele</h4>
-              <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
               <div className="fee-text">
               {/* <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p> */}
               <p>8 classes/month</p>
@@ -166,7 +163,6 @@ class Courses extends React.Component {
             <img className="card-img-top" src="/trinity-course.jpg" alt="Card image cap"/>
             <div className="card-block">
               <h4 className="card-title">Certifications</h4>
-              <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
               <div className="card-footer-section">
                 <Button color="primary" size="lg" block>Join Now</Button>
               </div>
