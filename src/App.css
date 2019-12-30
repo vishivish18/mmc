@@ -143,6 +143,24 @@ body {
   font-size: 18px;
   text-align: justify;
 }
+
+.location-iframe{
+  width: 800;
+  height: 768;
+}
+
+@media only screen and (max-width: 600px) {
+  .page-content-wrapper {
+    padding: 40px;
+  }
+  .section-header {
+    font-size: 32px;
+  }
+  .location-iframe{
+    width: 300;
+    height: 768;
+  }
+}
 .subscript {
   font-size: 28px;
   font-family: 'Bungee Outline', cursive;
