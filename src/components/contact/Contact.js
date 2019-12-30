@@ -2,7 +2,7 @@ import React from 'react';
 import { Button } from 'reactstrap';
 
 class Contact extends React.Component {
-
+  
   render() {
     return(
     <div>
@@ -10,6 +10,15 @@ class Contact extends React.Component {
         <div className="col-12">
           <a href="tel:9560641314" style={{fontSize:52,textDecoration:'none',color:'red'}}>Call @+91 9560641314</a>
         </div>
+      </div>
+      <div className="row text-center">
+        <div className="col-12">
+          <span style={{fontSize:22}}><p><span style={{fontWeight:800}}>Main Branch</span> </p> H-169, Block H, Sector 12, Noida, Uttar Pradesh 201301</span>
+          </div>
+          <div className="col-12" style={{marginTop:20}}>
+          <span style={{fontSize:22}}><p><span style={{fontWeight:800}}>Gaur City Branch</span></p> D 106, AIG Park Avenue, Gaur City 1, Noida Extension</span>
+          </div>
+        
       </div>
       <div className="row text-center">
         <div className="col-6" style={{marginTop:120}}>

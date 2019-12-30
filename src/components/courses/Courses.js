@@ -7,7 +7,7 @@ class Courses extends React.Component {
     <div>
       <div className="row" style={{marginBottom:'50px'}}>
             <div className="static-holder tint t3 col-12">
-                <img className="page-image" style={{maxHeight:309}} src="/headphones.jpg"/>
+                <img className="page-image img-fluid" style={{maxHeight:309}} src="/headphones.jpg"/>
                 <div className="centered">
                   <p className="page-header-sub-text">Courses</p>
                   <p className="page-header-sub-text">Maestro Music Club - Music Academy</p>
