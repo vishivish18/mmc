@@ -7,7 +7,7 @@ class About extends React.Component {
     <div>
       <div className="row">
             <div className="static-holder tint t3 col-12">
-                <img className="page-image" style={{maxHeight:309}} src="/about-cover2.png"/>
+                <img className="page-image img-fluid" style={{maxHeight:309}} src="/about-cover2.png"/>
                 <div className="centered">
                   <p className="page-header-sub-text">About</p>
                   <p className="page-header-sub-text">Maestro Music Club - Music Academy</p>

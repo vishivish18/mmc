@@ -13,15 +13,15 @@ class App extends React.Component {
   state = {
     contacts: []
   }
-  componentDidMount() {
-    fetch('http://jsonplaceholder.typicode.com/users')
-    .then(res => res.json())
-    .then((data) => {
-      this.setState({ contacts: data })
-      console.log(this.state.contacts)
-    })
-    .catch(console.log)
-  }
+  // componentDidMount() {
+  //   fetch('http://jsonplaceholder.typicode.com/users')
+  //   .then(res => res.json())
+  //   .then((data) => {
+  //     this.setState({ contacts: data })
+  //     console.log(this.state.contacts)
+  //   })
+  //   .catch(console.log)
+  // }
    render() {
 
     return (

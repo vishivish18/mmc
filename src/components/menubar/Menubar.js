@@ -36,16 +36,16 @@ class MenuBar extends React.Component{
           <img className="menubar-logo" src="/logo.jpg"/>Maestro Music Club
           </NavbarBrand>
           <NavbarToggler onClick={this.toggle} />
-          <Collapse style={{background:'white'}} isOpen={this.state.isOpen} navbar>
-          <Nav className="ml-auto" navbar>
+          <Collapse style={{background:'white',marginLeft:'-15px',marginRight:'-15px', paddingLeft:'20px'}} isOpen={this.state.isOpen} navbar>
+          <Nav className="ml-auto" navbar style={{textAlign:'center'}}>
             <NavItem className="d-flex align-items-center">
-            <Link to={'/home'} className="nav-link" style={{textAlign:'center'}}>Home</Link>
+            <Link onClick={this.toggle} to={'/home'} className="nav-link" style={{textAlign:'center'}}>Home</Link>
             </NavItem>
             <NavItem className="d-flex align-items-center">
-            <Link to={'/about'} className="nav-link">About</Link>
+            <Link onClick={this.toggle} to={'/about'} className="nav-link">About</Link>
             </NavItem>
             <NavItem className="d-flex align-items-center">
-            <Link to={'/courses'} className="nav-link">Courses</Link>
+            <Link onClick={this.toggle} to={'/courses'} className="nav-link">Courses</Link>
             </NavItem>
             {/* <NavItem className="d-flex align-items-center">
               <NavLink className="font-weight-thin" style={{color : 'red'}}  href="/">Resources</NavLink>
@@ -60,7 +60,7 @@ class MenuBar extends React.Component{
             <Link to={'/j-studios'} className="nav-link">J Studios</Link>
             </NavItem> */}
             <NavItem className="d-flex align-items-center">
-              <Link to={'/contact'} className="nav-link">Contact</Link>
+              <Link onClick={this.toggle} to={'/contact'} className="nav-link">Contact</Link>
             </NavItem>
             <NavItem className="d-flex align-items-center">
               <NavLink target="_blank"  className="font-weight-thin" style={{color : 'red'}}  href="https://www.facebook.com/MaestroMusicClub/"><img style={{height : 20}} src="/facebook.png"/></NavLink>
