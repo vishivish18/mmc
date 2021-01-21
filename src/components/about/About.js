@@ -34,36 +34,60 @@ class About extends React.Component {
                             <div className="timeline-icon"><span className="year">2003</span></div>
                             <div className="timeline-content">
                                 <h3 className="title">Founded as Jim's Guitar Classes</h3>
-                                <p className="description">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lacinia mi ultrices, luctus nunc ut, commodo enim. Vivamus sem erat.
-                                </p>
                             </div>
                         </div>
                         <div className="timeline">
                             <div className="timeline-icon"><span className="year">2013</span></div>
                             <div className="timeline-content">
                                 <h3 className="title">Above the Noise - 1st Concert</h3>
-                                <p className="description">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lacinia mi ultrices, luctus nunc ut, commodo enim. Vivamus sem erat.
-                                </p>
                             </div>
                         </div>
                         <div className="timeline">
                             <div className="timeline-icon"><span className="year">2014</span></div>
                             <div className="timeline-content">
                                 <h3 className="title">Above the Noise - 2nd Concert</h3>
-                                <p className="description">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lacinia mi ultrices, luctus nunc ut, commodo enim. Vivamus sem erat.
-                                </p>
                             </div>
                         </div>
                         <div className="timeline">
                             <div className="timeline-icon"><span className="year">2015</span></div>
                             <div className="timeline-content">
                                 <h3 className="title">Above the Noise - 3rd Concert</h3>
-                                <p className="description">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lacinia mi ultrices, luctus nunc ut, commodo enim. Vivamus sem erat.
-                                </p>
+                            </div>
+                        </div>
+                        <div className="timeline">
+                            <div className="timeline-icon"><span className="year">2016</span></div>
+                            <div className="timeline-content">
+                                <h3 className="title">Above the Noise - 4th Concert</h3>
+                            </div>
+                        </div>
+                        <div className="timeline">
+                            <div className="timeline-icon"><span className="year">2017</span></div>
+                            <div className="timeline-content">
+                                <h3 className="title">Above the Noise - 5th Concert</h3>
+                            </div>
+                        </div>
+                        <div className="timeline">
+                            <div className="timeline-icon"><span className="year">2018</span></div>
+                            <div className="timeline-content">
+                                <h3 className="title">Above the Noise - 6th Concert</h3>
+                            </div>
+                        </div>
+                        <div className="timeline">
+                            <div className="timeline-icon"><span className="year">2019</span></div>
+                            <div className="timeline-content">
+                                <h3 className="title">Above the Noise - 7th Concert</h3>
+                            </div>
+                        </div>
+                        <div className="timeline">
+                            <div className="timeline-icon"><span className="year">2020</span></div>
+                            <div className="timeline-content">
+                                <h3 className="title">Above the Noise - 8th Concert</h3>
+                            </div>
+                        </div>
+                        <div className="timeline">
+                            <div className="timeline-icon"><span className="year">2021</span></div>
+                            <div className="timeline-content">
+                                <h3 className="title">15 Years of Maestro Music Club</h3>
                             </div>
                         </div>
                     </div>

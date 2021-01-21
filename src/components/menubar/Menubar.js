@@ -50,14 +50,14 @@ class MenuBar extends React.Component{
             {/* <NavItem className="d-flex align-items-center">
               <NavLink className="font-weight-thin" style={{color : 'red'}}  href="/">Resources</NavLink>
             </NavItem> */}
-            <NavItem className="d-flex align-items-center">
+            {/* <NavItem className="d-flex align-items-center">
               <NavLink className="font-weight-thin" style={{color : 'red'}}  href="/">Corporates</NavLink>
-            </NavItem>
+            </NavItem> */}
             {/* <NavItem className="d-flex align-items-center">
               <NavLink className="font-weight-thin" style={{color : 'red'}}  href="/">J's Guitar Shop</NavLink>
             </NavItem> */}
             <NavItem className="d-flex align-items-center">
-            <Link to={'/j-studios'} className="nav-link">J Studios</Link>
+            <Link to={'/j-studios'} className="nav-link">23 Records</Link>
             </NavItem>
             <NavItem className="d-flex align-items-center">
               <Link to={'/contact'} className="nav-link">Contact</Link>
