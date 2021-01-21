@@ -4,6 +4,7 @@ import { Button } from 'reactstrap';
 class Home extends React.Component {
 
   render() {
+    window.scrollTo(0, 0);
     return(
     <div>
       <div className="row text-center">

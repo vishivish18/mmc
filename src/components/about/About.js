@@ -3,11 +3,12 @@ import React from 'react';
 class About extends React.Component {
 
   render() {
+    window.scrollTo(0, 0);
     return(
     <div>
       <div className="row">
             <div className="static-holder tint t3 col-12">
-                <img className="page-image" style={{maxHeight:309}} src="/about-cover2.png"/>
+                <img className="page-image hidden-sm" style={{maxHeight:309}} src="/about-cover2.png"/>
                 <div className="centered">
                   <p className="page-header-sub-text">About</p>
                   <p className="page-header-sub-text">Maestro Music Club - Music Academy</p>

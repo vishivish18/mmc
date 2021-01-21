@@ -3,11 +3,12 @@ import { Button } from 'reactstrap';
 class Courses extends React.Component {
 
   render() {
+    window.scrollTo(0, 0);
     return(
     <div>
       <div className="row">
             <div className="static-holder tint t3 col-12">
-                <img className="page-image" style={{maxHeight:309}} src="/headphones.jpg"/>
+                <img className="page-image hidden-sm" style={{maxHeight:309}} src="/headphones.jpg"/>
                 <div className="centered">
                   <p className="page-header-sub-text">Courses</p>
                   <p className="page-header-sub-text">Maestro Music Club - Music Academy</p>

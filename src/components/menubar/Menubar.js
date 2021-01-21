@@ -39,13 +39,13 @@ class MenuBar extends React.Component{
           <Collapse style={{background:'white'}} isOpen={this.state.isOpen} navbar>
           <Nav className="ml-auto" navbar>
             <NavItem className="d-flex align-items-center">
-            <Link to={'/home'} className="nav-link" style={{textAlign:'center'}}>Home</Link>
+            <Link to={'/home'} onClick={this.toggle} className="nav-link" style={{textAlign:'center'}}>Home</Link>
             </NavItem>
             <NavItem className="d-flex align-items-center">
-            <Link to={'/about'} className="nav-link">About</Link>
+            <Link to={'/about'} onClick={this.toggle}  className="nav-link">About</Link>
             </NavItem>
             <NavItem className="d-flex align-items-center">
-            <Link to={'/courses'} className="nav-link">Courses</Link>
+            <Link to={'/courses'} onClick={this.toggle} className="nav-link">Courses</Link>
             </NavItem>
             {/* <NavItem className="d-flex align-items-center">
               <NavLink className="font-weight-thin" style={{color : 'red'}}  href="/">Resources</NavLink>
@@ -57,10 +57,10 @@ class MenuBar extends React.Component{
               <NavLink className="font-weight-thin" style={{color : 'red'}}  href="/">J's Guitar Shop</NavLink>
             </NavItem> */}
             <NavItem className="d-flex align-items-center">
-            <Link to={'/j-studios'} className="nav-link">23 Records</Link>
+            <Link to={'/23-records'} onClick={this.toggle} className="nav-link">23 Records</Link>
             </NavItem>
             <NavItem className="d-flex align-items-center">
-              <Link to={'/contact'} className="nav-link">Contact</Link>
+              <Link to={'/contact'} onClick={this.toggle} className="nav-link">Contact</Link>
             </NavItem>
             <NavItem className="d-flex align-items-center">
               <NavLink className="font-weight-thin" style={{color : 'red'}}  href="/"><img style={{height : 20}} src="/facebook.png"/></NavLink>
@@ -84,7 +84,7 @@ class MenuBar extends React.Component{
               <Route path='/about' component={About} />
               <Route path='/courses' component={Courses} />
               <Route path='/contact' component={Contact} />
-              <Route path='/j-studios' component={JStudios} />
+              <Route path='/23-records' component={JStudios} />
           </Switch>
         </div>
         </div>
