@@ -24,23 +24,20 @@ class Courses extends React.Component {
       <div className="container">
       <div className="card-deck">
           <div className="card">
-            <img className="card-img-top " src="/guitar-course.jpg" alt="Card image cap"/>
+            <img className="card-img-top" src="/guitar-course.jpg" alt="Card image cap"/>
             <div className="card-block">
               <h4 className="card-title">Acoustic Guitar</h4>
               <p className="card-text"></p>
               <div className="fee-text">
-              {/* <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p> */}
+              <p className="card-text"><small className="text-muted">2 Classes per week</small></p>
               <p>8 classes</p>
-              <p> &#8377; 2200/month</p>
+              <p> &#8377; 2400/month</p>
               <p>or</p>
               <p>24 classes</p>
-              <p> &#8377; 6000/quarter</p>
+              <p> &#8377; 6400/quarter</p>
               <p>or</p>
               <p>48 classes</p>
-              <p> &#8377; 12000/half yearly</p>
-              <p>or</p>
-              <p>96 classes</p>
-              <p> &#8377; 24000/yearly</p>
+              <p> &#8377; 12200/half yearly</p>
               </div>
               <div className="card-footer-section">
                 <Button color="primary" size="lg" block><a style={{color: "white"}} href="tel:9560641314">Join Now</a></Button>
@@ -53,18 +50,17 @@ class Courses extends React.Component {
               <h4 className="card-title">Piano</h4>
               <p className="card-text"></p>
               <div className="fee-text">
-              {/* <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p> */}
-              <p>8 classes</p>
-              <p> &#8377; 3000/month</p>
+              <p>4 classes per month</p>
+              <p> &#8377; 2500/month</p>
               <p>or</p>
-              <p>24 classes</p>
-              <p> &#8377; 8500/quarter</p>
+              <p>8 classes per month</p>
+              <p> &#8377; 4200/month</p>
               <p>or</p>
-              <p>48 classes</p>
-              <p> &#8377; 16000/half yearly</p>
+              <p>12 classes in 3 months</p>
+              <p> &#8377; 6400/quarterly</p>
               <p>or</p>
-              <p>96 classes</p>
-              <p> &#8377; 32000/yearly</p>
+              <p>24 classes in 6 months</p>
+              <p> &#8377; 12200/half yearly</p>
               </div>
               <div className="card-footer-section">
                 <Button color="primary" size="lg" block>Join Now</Button>
@@ -77,18 +73,15 @@ class Courses extends React.Component {
               <h4 className="card-title">Keyboard</h4>
               <p className="card-text"></p>
               <div className="fee-text">
-              {/* <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p> */}
+              <p className="card-text"><small className="text-muted">2 Classes per week</small></p>
               <p>8 classes</p>
-              <p> &#8377; 2200/month</p>
+              <p> &#8377; 2400/month</p>
               <p>or</p>
               <p>24 classes</p>
-              <p> &#8377; 6000/quarter</p>
+              <p> &#8377; 6400/quarter</p>
               <p>or</p>
               <p>48 classes</p>
-              <p> &#8377; 12000/half yearly</p>
-              <p>or</p>
-              <p>96 classes</p>
-              <p> &#8377; 24000/yearly</p>
+              <p> &#8377; 12200/half yearly</p>
               </div>
               <div className="card-footer-section">
                 <Button color="primary" size="lg" block><a style={{color: "white"}} href="tel:9560641314">Join Now</a></Button>
@@ -100,21 +93,20 @@ class Courses extends React.Component {
                 <div className="card">
                   <img className="card-img-top" src="violin-course.jpg" alt="Card image cap"/>
                   <div className="card-block">
-                    <h4 className="card-title">Violin</h4>
+                    <h4 className="card-title">Violin/Ukulele</h4>
                     <p className="card-text"></p>
                     <div className="fee-text">
-              {/* <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p> */}
-              <p>8 classes</p>
-              <p> &#8377; 2200/month</p>
+              <p>4 classes per month</p>
+              <p> &#8377; 2500/month</p>
               <p>or</p>
-              <p>24 classes</p>
-              <p> &#8377; 6000/quarter</p>
+              <p>8 classes per month</p>
+              <p> &#8377; 4200/month</p>
               <p>or</p>
-              <p>48 classes</p>
-              <p> &#8377; 12000/half yearly</p>
+              <p>12 classes in 3 months</p>
+              <p> &#8377; 6400/quarterly</p>
               <p>or</p>
-              <p>96 classes</p>
-              <p> &#8377; 24000/yearly</p>
+              <p>24 classes in 6 months</p>
+              <p> &#8377; 12200/half yearly</p>
               </div>
               <div className="card-footer-section">
                 <Button color="primary" size="lg" block><a style={{color: "white"}} href="tel:9560641314">Join Now</a></Button>
@@ -124,21 +116,21 @@ class Courses extends React.Component {
                 <div className="card">
                   <img className="card-img-top" src="/harmonium-course.jpg" alt="Card image cap"/>
                   <div className="card-block">
-                    <h4 className="card-title">Hindustani Classical Vocals</h4>
+                    <h4 className="card-title">Indian Vocals</h4>
                     <p className="card-text"></p>
                     <div className="fee-text">
-              {/* <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p> */}
-              <p>8 classes</p>
+              <p className="card-text"><small className="text-muted">GST 18% extra on payments done via online transactions for Indian Vocals</small></p>                      
+              <p>8 classes per month</p>
+              <p> &#8377; 1800/month</p>
+              <p>or</p>
+              <p>12 classes per month</p>
               <p> &#8377; 2200/month</p>
               <p>or</p>
-              <p>24 classes</p>
-              <p> &#8377; 6000/quarter</p>
+              <p>24 classes in 3 months</p>
+              <p> &#8377; 5000/quarter</p>
               <p>or</p>
-              <p>48 classes</p>
-              <p> &#8377; 12000/half yearly</p>
-              <p>or</p>
-              <p>96 classes</p>
-              <p> &#8377; 24000/yearly</p>
+              <p>36 classes in 3 months</p>
+              <p> &#8377; 6200/quarter</p>
               </div>
               <div className="card-footer-section">
                 <Button color="primary" size="lg" block><a style={{color: "white"}} href="tel:9560641314">Join Now</a></Button>
@@ -151,18 +143,17 @@ class Courses extends React.Component {
                     <h4 className="card-title">Western Vocals</h4>
                     <p className="card-text"></p>
                     <div className="fee-text">
-              {/* <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p> */}
-              <p>8 classes</p>
+              <p>4 classes per month</p>
               <p> &#8377; 2400/month</p>
               <p>or</p>
-              <p>24 classes</p>
-              <p> &#8377; 6500/quarter</p>
+              <p>8 classes per month</p>
+              <p> &#8377; 3000/month</p>
               <p>or</p>
-              <p>48 classes</p>
-              <p> &#8377; 13000/half yearly</p>
+              <p>12 classes in 3 months</p>
+              <p> &#8377; 6400/quarterly</p>
               <p>or</p>
-              <p>96 classes</p>
-              <p> &#8377; 26000/yearly</p>
+              <p>24 classes in 3 months</p>
+              <p> &#8377; 8500/quarterly</p>
               </div>
               <div className="card-footer-section">
                 <Button color="primary" size="lg" block><a style={{color: "white"}} href="tel:9560641314">Join Now</a></Button>
@@ -177,18 +168,17 @@ class Courses extends React.Component {
               <h4 className="card-title">Electric Guitar / Bass Guitar</h4>
               <p className="card-text"></p>
               <div className="fee-text">
-              {/* <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p> */}
-              <p>8 classes</p>
+              <p>4 classes per month</p>
               <p> &#8377; 2400/month</p>
               <p>or</p>
-              <p>24 classes</p>
-              <p> &#8377; 6500/quarter</p>
+              <p>8 classes per month</p>
+              <p> &#8377; 3000/month</p>
               <p>or</p>
-              <p>48 classes</p>
-              <p> &#8377; 13000/half yearly</p>
+              <p>12 classes in 3 months</p>
+              <p> &#8377; 6400/quarterly</p>
               <p>or</p>
-              <p>96 classes</p>
-              <p> &#8377; 26000/yearly</p>
+              <p>24 classes in 3 months</p>
+              <p> &#8377; 8500/quarterly</p>
               </div>
               <div className="card-footer-section">
                 <Button color="primary" size="lg" block><a style={{color: "white"}} href="tel:9560641314">Join Now</a></Button>
@@ -201,18 +191,17 @@ class Courses extends React.Component {
               <h4 className="card-title">Drums</h4>
               <p className="card-text"></p>
               <div className="fee-text">
-              {/* <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p> */}
-              <p>8 classes</p>
+              <p>4 classes per month</p>
               <p> &#8377; 2400/month</p>
               <p>or</p>
-              <p>24 classes</p>
-              <p> &#8377; 6500/quarter</p>
+              <p>8 classes per month</p>
+              <p> &#8377; 3000/month</p>
               <p>or</p>
-              <p>48 classes</p>
-              <p> &#8377; 13000/half yearly</p>
+              <p>12 classes in 3 months</p>
+              <p> &#8377; 6400/quarterly</p>
               <p>or</p>
-              <p>96 classes</p>
-              <p> &#8377; 26000/yearly</p>
+              <p>24 classes in 3 months</p>
+              <p> &#8377; 8500/quarterly</p>
               </div>
               <div className="card-footer-section">
                 <Button color="primary" size="lg" block><a style={{color: "white"}} href="tel:9560641314">Join Now</a></Button>
